@@ -16,11 +16,10 @@
  *  04. Icon Fonts
  *  05. Section Styles
  *  06. Timeline Styles
- *  05. Footer
- EXTRAS
+ *  07. Footer
+ *  08. EXTRAS
 
- * =================================================================== 
- */
+ * =================================================================== */
 
 
 /* 01. Basic Styles
@@ -31,7 +30,7 @@ html {
 }
 
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Geneva', sans-serif;
 }
 
 h1 {
@@ -39,6 +38,14 @@ h1 {
 }
 
 h2 {
+    font-weight: bolder;
+}
+
+h3 {
+    font-weight: bolder;
+}
+
+h4 {
     font-weight: bolder;
 }
 
@@ -79,7 +86,7 @@ hr {
  * =================================================================== */
 
 .section-image {
-    background: #151515 url(../images/DSC_1248.JPG) no-repeat center center;
+    background: #151515 url(../images/Chicago-RogersParkLookingSouth.JPG) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -233,14 +240,8 @@ section {
 }
 
 
-/* 01. Timeline Styles
+/* 01. Skills
  * =================================================================== */
-
-.timeline-icon .fa {
-    color: white;
-    margin: 14px;
-    font-size: 1.7em;
-}
 
 #skills {
     background: #151515 url(../images/DSC_1248.JPG) no-repeat center center;
@@ -339,7 +340,7 @@ footer p {
 
 
 /* /Mouse Icon
-         * =================================================================== */
+ * =================================================================== */
 
 
 /* Media Queries
