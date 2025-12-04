@@ -1,0 +1,13 @@
+/* 06. Skills
+ * =================================================================== */
+
+.skills {
+    vertical-align: middle;
+    text-align: center;
+    display: table;
+}
+
+.skills .table {
+    margin-right: 0;
+    margin-left: 0;
+}
