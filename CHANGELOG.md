@@ -10,4 +10,3 @@
 | 10/2/20 | Updated read.me  in the [CI/CD repo](https://github.com/DTIG-US/CICD) |
 
 ---
-
